@@ -1,0 +1,4 @@
+- Hi, I’m Riley Castelli!
+- I’m interested in low-level system programming and computer architecture.
+- I’m currently learning OS implementation and basic microprocessor design from ICs on breadboards (eventually PCBS).
+- How to reach me: castelliriley@gmail.com (personal) castelli.14@osu.edu (education-related)
